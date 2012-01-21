@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, networkingProof! Altered</string>
+    <string name="app_name">Network Proof</string>
+    <string name="lock_text">The Screen has temporarily been locked, it will resume when more work needs to be done on tablets</string>
+</resources>
